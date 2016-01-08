@@ -1,0 +1,28 @@
+.left{
+  background-color: royalblue;
+  height: 600px;
+  width: 200px;
+  float: left;
+}
+
+.middle{
+  background-color: #00FFCC;
+  height: 600px;
+  width: 200px;
+  float: left;
+}
+
+.right{
+  background-color: #CCFFCC;
+  height: 600px;
+  width: 200px;
+  float: left;
+}
+
+.bottomRight{
+  background-color: #CC0033;
+  height: 200px;
+  width: 200px;
+  float: right;
+  
+}

@@ -1,0 +1,30 @@
+.top{
+  background-color: black;
+  width: 100%;
+  height: 150px;
+  float: top;
+}
+.leftside{
+  background-color: lightgray;
+  width: 150px;
+  height: 700px;
+  float: left;
+}
+
+.rightside{
+  background-color: lightgray;
+  width: 150px;
+  height: 700px;
+  float: right;
+}
+
+.middle{
+  background-color: white;
+  height: 600px;
+}
+
+.bottom{
+  background-color: black;
+  width: auto;
+  height: 100px;
+}
