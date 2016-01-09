@@ -23,6 +23,6 @@
   background-color: #CC0033;
   height: 200px;
   width: 200px;
-  float: right;
-
+  float: bottom;
+  margin-left: 400px;
 }
